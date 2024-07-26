@@ -14,6 +14,7 @@ function DataFetching3(){
         }
         fetchMyData();
     })
+    
     return(
         <div>
             <table className="table">
